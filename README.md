@@ -7,4 +7,3 @@ Possuo experiência com desenvolvimento Backend com Python. Também já atuei co
 ## GitHub Stats
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Falquetto1)
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Falquetto1)
